@@ -1,0 +1,6 @@
+Secure Encryption Scheme
+• Unconditional security
+• no matter how much computer power is available, the cipher cannot be 
+broken since the ciphertext provides insufficient information to uniquely 
+determine the corresponding plaintext
+• Computational

@@ -1,0 +1,8 @@
+Requirements
+• Two requirements for secure use of symmetric encryption:
+• a strong encryption algorithm
+• a secret key known only to sender / receiver
+Y = EK(X)
+X = DK(Y)
+• assume encryption algorithm is known
+• the security of symmetric encryption d

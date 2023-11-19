@@ -1,0 +1,5 @@
+usion – how does changing one bit of the plaintext affect the ciphertext?
+confusion
+ciphertext
+plaintext
+diffusion

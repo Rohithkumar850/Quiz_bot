@@ -1,0 +1,6 @@
+Desired characteristics
+• Cipher needs to completely obscure statistical properties of original 
+message
+• more practically Shannon suggested combining elements to obtain:
+• Confusion – how does changing a bit of the key affect the ciphertext?
+• Diff

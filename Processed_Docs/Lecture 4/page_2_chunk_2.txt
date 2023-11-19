@@ -1,0 +1,3 @@
+epends on the secrecy of the 
+key
+• implies a secure channel to distribute key

@@ -1,0 +1,7 @@
+Ways to achieve
+• Symmetric Encryption: 
+• substitution / transposition / hybrid
+• Asymmetric Encryption: 
+• Mathematical hardness - problems that are efficient to compute in one 
+direction, but inefficient to reverse by the attacker
+• Examples: Modu

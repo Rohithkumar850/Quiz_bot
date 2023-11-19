@@ -1,0 +1,5 @@
+ security
+• the cost of breaking the cipher exceeds the value of the encrypted 
+information;
+• or the time required to break the cipher exceeds the useful lifetime of the 
+information

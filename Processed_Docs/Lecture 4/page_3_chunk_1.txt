@@ -1,0 +1,5 @@
+A strong encryption algorithm
+attacker
+encryption algorithm
+plaintext / enquiry
+cyphertext / response
