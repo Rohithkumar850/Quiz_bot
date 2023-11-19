@@ -1,0 +1,5 @@
+ed on exponentiation in a finite (Galois) field over integers modulo a 
+prime 
+• exponentiation takes O((log n)3) operations (easy)
+• security due to cost of factoring large integer numbers 
+• factorization takes O(e log n log log n) operations (hard

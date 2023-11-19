@@ -1,0 +1,5 @@
+Homomorphic encryption 
+• Encryption scheme that allows computation on ciphertexts 
+• i.e. a public-key encryption scheme that allows anyone in possession of the 
+public key to perform operations on encrypted data without access to the 
+decryption ke

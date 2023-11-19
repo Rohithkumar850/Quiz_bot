@@ -1,0 +1,4 @@
+y
+• Initial public-key systems that allow this for either addition or 
+multiplication, but not both.
+• Fully homomorphic encryption (FHE)

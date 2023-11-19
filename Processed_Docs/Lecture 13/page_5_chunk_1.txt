@@ -1,0 +1,7 @@
+RSA key setup
+• each user generates a public/private key pair by: 
+• selecting two large primes at random - p, q
+• computing their system modulus n=p∙q
+• note ø(n)=(p-1)(q-1)
+• selecting at random the encryption key e
+• where 1<e<ø(n), gcd(e,ø(n))=1 

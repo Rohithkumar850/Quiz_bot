@@ -1,0 +1,5 @@
+crypt) and hard (cryptanalyze) problems
+• more generally the hard problem is known, it’s just made too hard to do in 
+practice 
+• Requires the use of very large numbers, hence is slow compared to 
+private/symmetric key schemes

@@ -1,0 +1,7 @@
+RSA example continue
+• sample RSA encryption/decryption is: 
+• given message M = 88 ( 88<187)
+• encryption:
+C = 887 mod 187 = 11
+• decryption:
+M = 1123 mod 187 = 88

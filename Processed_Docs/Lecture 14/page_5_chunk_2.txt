@@ -1,0 +1,3 @@
+bilistic test
+• exponents e, d are inverses, so use Inverse algorithm to compute the 
+other

@@ -1,0 +1,8 @@
+RSA use
+• to encrypt a message M the sender:
+• obtains public key of recipient pk={e,n}
+• computes: C=Me mod n, where 0≤M<n
+• to decrypt the ciphertext C the owner:
+• uses their private key sk={d,p,q}
+• computes: M=Cd mod n
+• note that the message M 

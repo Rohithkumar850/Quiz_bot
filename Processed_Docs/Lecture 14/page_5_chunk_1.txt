@@ -1,0 +1,7 @@
+RSA key generation
+• users of RSA must:
+• determine two primes at random - p, q
+• select either e or d and compute the other
+• primes p,q must not be easily derived from modulus n=p.q
+• means must be sufficiently large
+• typically guess and use proba

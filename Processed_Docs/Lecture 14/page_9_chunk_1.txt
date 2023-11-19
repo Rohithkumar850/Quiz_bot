@@ -1,0 +1,5 @@
+Application of homomorphic encryption 
+• One Use case: cloud computing 
+• A weak computational device Alice (e.g., a mobile phone or a laptop) wishes 
+to perform a computationally heavy task, beyond her computational means. 
+She can delegate it to a 

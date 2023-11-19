@@ -1,0 +1,5 @@
+Correctness of RSA
+• Euler’s theorem: if gcd (M, n) = 1, then 𝑀𝜙(𝑛) = 1 mod n. Here φ(n) 
+is Euler’s totient function: the number of integers in {1, 2, . . ., n-1} 
+which are relatively prime to n. When n is a prime, this theorem is 
+just Fermat’s li

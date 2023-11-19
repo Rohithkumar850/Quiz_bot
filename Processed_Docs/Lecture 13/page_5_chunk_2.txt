@@ -1,0 +1,5 @@
+
+• solve following equation to find decryption key d
+• ed=1 mod ø(n)
+• publish their public encryption key: pk={e,n} 
+• keep secret private decryption key: sk={d,p,q} 

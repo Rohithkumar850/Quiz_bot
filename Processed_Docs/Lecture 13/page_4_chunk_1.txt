@@ -1,0 +1,7 @@
+RSA Public-key encryption
+• by Rivest, Shamir & Adleman of MIT in 1977 
+• currently the “work horse” of Internet security
+• most public key infrastructure (PKI) products
+• SSL/TLS: certificates and key-exchange
+• secure e-mail: PGP, Outlook, ….
+• bas

@@ -1,0 +1,6 @@
+Security of Public Key Schemes
+• Keys used are very large (>512bits) 
+• like private key schemes brute force exhaustive search attack is always 
+theoretically possible 
+• Security relies on a large enough difference in difficulty between easy 
+(en/de

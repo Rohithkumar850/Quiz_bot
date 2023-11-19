@@ -1,0 +1,6 @@
+much stronger (but still feasible) machine Bob (the 
+cloud, or a supercomputer) who offers the service of doing so. The problem is 
+that Alice does not trust Bob, who may give the wrong answer due to laziness, 
+fault, or malice.
+E (Pk, data)
+E (Pk, f

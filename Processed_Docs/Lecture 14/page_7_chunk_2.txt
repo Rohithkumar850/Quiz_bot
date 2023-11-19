@@ -1,0 +1,6 @@
+of the decryption 
+algorithm
+• Chosen ciphertext attacks: this type of attacks exploits properties of 
+the RSA algorithm by selecting blocks of data. These attacks can be 
+thwarted by suitable padding of the plaintext, such as PKCS1 V1.5 in 
+SSL

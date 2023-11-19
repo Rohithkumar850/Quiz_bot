@@ -1,0 +1,14 @@
+RSA example
+1.
+Select primes: p=17 & q=11
+2.
+Compute n = pq =17×11=187
+3.
+Compute ø(n)=(p–1)(q-1)=16×10=160
+4.
+Select e : gcd(e,160)=1; choose e=7
+5.
+Determine d: de=1 mod 160 and d < 160 Value is d=23 since 
+23×7=161= 10×160+1
+6.
+Publish public key 

@@ -1,0 +1,5 @@
+Attack approaches
+• Mathematical attacks: several approaches, all equivalent in effort to 
+factoring the product of two primes. The defense against 
+mathematical attacks is to use a large key size. 
+• Timing attacks: These depend on the running time 

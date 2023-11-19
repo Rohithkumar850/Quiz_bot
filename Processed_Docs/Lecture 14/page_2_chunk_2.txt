@@ -1,0 +1,7 @@
+must be smaller than the modulus n (block 
+if needed)
+Plaintext
+Ciphertext
+C = 𝑀𝑒
+pk={e,n}
+sk={d,p,q}

@@ -1,0 +1,5 @@
+ttle theorem
+M’ = 𝐶𝑑 mod n = 𝑀𝑒𝑑 mod n
+= 𝑀𝑘𝜙 𝑛 +1 mod n
+= [𝑀𝜙(𝑛)]𝑘∙ 𝑀 mod n
+= M  mod n
