@@ -1,0 +1,4 @@
+f
+• based on round function of right half & subkey
+• then have permutation swapping halves
+• implements Shannon’s substitution-permutation network concept

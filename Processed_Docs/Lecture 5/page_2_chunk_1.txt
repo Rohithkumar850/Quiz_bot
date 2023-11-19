@@ -1,0 +1,4 @@
+Review
+• Strong Encryption Algorithm
+• Confusion
+• Diffusion

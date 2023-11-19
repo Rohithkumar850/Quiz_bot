@@ -1,0 +1,6 @@
+Block cipher
+• the most commonly used symmetric encryption algorithms
+• input: fixed-size blocks (Typically 64, 128 bit blocks), output: equal 
+size blocks
+• provide secrecy and/or authentication services
+• Data Encryption Standard (DES), triple DES 

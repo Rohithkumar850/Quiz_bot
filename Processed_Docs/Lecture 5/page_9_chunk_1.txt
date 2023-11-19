@@ -1,0 +1,5 @@
+DES encryption
+•
+64 bits plaintext
+•
+56 bits effective key length
