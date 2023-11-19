@@ -1,0 +1,4 @@
+Ways to achieve symmetric key distribution
+• A key could be selected by A and physically delivered to B
+• A third party could select the key and physically deliver it to A and B 
+• If A and B have previously and recently used a key, one party could 

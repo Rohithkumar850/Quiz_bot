@@ -1,0 +1,3 @@
+Kerberos
+• scenario: users at workstations wish to access services on servers 
+distributed throughout the network – many to many authentication

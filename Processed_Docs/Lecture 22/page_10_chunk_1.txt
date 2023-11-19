@@ -1,0 +1,8 @@
+Requirements
+• Security
+• against attacks by eavesdroppers and malicious users
+• Transparency
+• users shouldn’t notice authentication taking place
+• entering password is ok, if done rarely
+• Scalability
+• Large number of users and servers

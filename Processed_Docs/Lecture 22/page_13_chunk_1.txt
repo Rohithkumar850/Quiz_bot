@@ -1,0 +1,9 @@
+A Simple Authentication Dialogue
+• 1. C —>AS: IDC ||PC ||IDV
+• 2. AS —> C : Ticket = E(KV, [IDC ||ADC ||IDV])
+• 3. C —> V: IDC || Ticket
+• AS – authentication server 
+• ID* - identifier
+• PC - password of user
+• ADC - network address of C
+• KV - secr

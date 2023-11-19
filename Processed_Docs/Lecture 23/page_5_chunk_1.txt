@@ -1,0 +1,6 @@
+Advantage
+• Client and malicious attacker cannot alter IDC (impersonate), 
+ADC(change of address) , IDV
+• server V can verify the user is authenticated through IDC , and grants 
+service to C
+• guarantee the ticket is valid only if it is transmitted f

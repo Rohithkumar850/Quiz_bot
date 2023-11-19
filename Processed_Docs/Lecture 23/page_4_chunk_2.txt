@@ -1,0 +1,7 @@
+et encryption key shared by AS and V
+AS
+C
+V
+1
+2
+3

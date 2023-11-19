@@ -1,0 +1,8 @@
+A More Secure Authentication Dialogue
+• Once per user logon session
+• (1) C —>AS:    IDC ||IDtgs
+• (2) AS —> C:   E(KC, Tickettgs)
+• Once per type of service:
+• (3) C —>TGS:   IDC ||IDv|| Tickettgs
+• (4) TGS —> C:   TicketV
+• Once per service session

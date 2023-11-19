@@ -1,0 +1,4 @@
+Secure?
+• Insecure: password is transmitted openly and frequently
+• Solution: no password transmitted by involving ticket-granting server 
+(TGS)

@@ -1,0 +1,6 @@
+Terminologies
+• Session key
+• Permanent key
+• key distribution center (KDC) 
+• third party authority, centralized infrastructure
+• give permissions for two parties to communicate

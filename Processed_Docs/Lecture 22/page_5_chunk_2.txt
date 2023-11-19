@@ -1,0 +1,4 @@
+transmit the new key to the other, using the old key to encrypt the 
+new key 
+• If A and B each have an encrypted connection to a third-party C, C 
+could deliver a key on the encrypted links to A and B 

@@ -1,0 +1,3 @@
+s protocol messages are protected against eavesdropping and 
+replay attacks 
+• Kerberos v4 and v5 [RFC 4120]

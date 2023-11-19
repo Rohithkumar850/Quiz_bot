@@ -1,0 +1,7 @@
+Threats
+• User impersonation
+• Malicious user with access to a workstation pretends to be another user from 
+the same workstation
+• Network address impersonation
+• Malicious user changes network address of his workstation to impersonate 
+another work

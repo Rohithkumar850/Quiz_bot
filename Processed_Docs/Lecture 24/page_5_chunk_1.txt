@@ -1,0 +1,6 @@
+Secure?
+• Ticket hijacking 
+• Malicious user may steal the service ticket of another user on the same workstation 
+and try to use it 
+• Network address verification does not help
+• Servers must verify that the user who is presenting the ticket is the

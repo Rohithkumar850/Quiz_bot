@@ -1,0 +1,6 @@
+ same user to 
+whom the ticket was issued 
+• No server authentication
+• Attacker may misconfigure the network so that he receives messages addressed to a 
+legitimate server – man in the middle attack
+• Capture private information from users and/or de

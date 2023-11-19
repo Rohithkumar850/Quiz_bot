@@ -1,0 +1,4 @@
+Advantage
+• No password transmitted in plaintext
+• Ticket is reusable. Timestamp is added to prevent reuse of ticket by 
+an attacker

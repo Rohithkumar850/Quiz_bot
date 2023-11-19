@@ -1,0 +1,7 @@
+Kerberos
+• a centralized authentication server provides mutual authentication 
+between users and servers
+• a key distribution and user authentication service developed at MIT
+• works in an open distributed environment
+• client-service model
+• Kerbero

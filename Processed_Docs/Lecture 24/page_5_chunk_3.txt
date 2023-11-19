@@ -1,0 +1,4 @@
+ny service
+• Servers must prove their identity to users
+• Solution: section key
+no user authentication
