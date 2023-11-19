@@ -1,0 +1,5 @@
+Availability
+• Availability: Assures that systems work promptly, and service is not 
+denied to authorized users, ensuring timely and reliable access to and 
+use of information
+• i.e., denial of service attack

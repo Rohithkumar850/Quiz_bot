@@ -1,0 +1,3 @@
+ner, free from deliberate or 
+inadvertent unauthorized manipulation of the system
+• i.e., a hospital patient’s allergy information  

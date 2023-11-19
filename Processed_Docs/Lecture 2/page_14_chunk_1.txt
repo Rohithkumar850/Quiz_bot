@@ -1,0 +1,4 @@
+Know Your Threat Model
+• Threat model: A model of who your attacker is and what resources 
+they have
+• One of the best ways to counter an attacker is to attack their reasons

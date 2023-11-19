@@ -1,0 +1,6 @@
+Active attack
+• active attack includes:
+• replay
+• Modification of messages
+• Denial of service
+• Masquerade

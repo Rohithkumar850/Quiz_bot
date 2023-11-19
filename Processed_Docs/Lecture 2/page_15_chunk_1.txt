@@ -1,0 +1,6 @@
+Example: adversary model
+• “The adversary is assumed to be intelligent and has 
+limited number of resources. Before capturing the 
+nodes, it exploits the various vulnerabilities of the 
+networks. It knows the topology of the network, 
+routing informa

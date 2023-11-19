@@ -1,0 +1,2 @@
+akes the ciphertext and the same secret key and 
+produces the original plaintext

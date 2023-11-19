@@ -1,0 +1,6 @@
+Integrity
+• Data integrity: Assures that data (both stored and in transmitted 
+packets) and programs are changed only in a specified and authorized
+manner;
+• System integrity: Assures that a system performs its intended 
+function in an unimpaired man

@@ -1,0 +1,4 @@
+red nodes. It is 
+also assumed that the adversary tends to attack more 
+on the nodes closer to the data sink than nodes that 
+are far away” 

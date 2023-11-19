@@ -1,0 +1,5 @@
+acy can be compromised when sending 
+data over the internet, so it is mandatory to keep it on your local system. 
+•
+Your Q&A Bot should be able to understand user questions and provide appropriate answers from the local database, then 
+the citations 

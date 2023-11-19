@@ -1,0 +1,8 @@
+Symmetric encryption
+• Has five ingredients
+• Plaintext:  the original message or data
+• Encryption algorithm: performs various substitutions and transformations on 
+the plaintext
+• Secret key
+• Ciphertext: the coded message
+• Decryption algorithm: t

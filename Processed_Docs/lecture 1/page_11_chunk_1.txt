@@ -1,0 +1,5 @@
+Project 
+• Task1: OnDemand Professor Q&A Bot 
+•
+Your task is to build a Q&A Bot over private data that answers questions about the network security course using the open-
+source alternatives to ChatGPT that can be run on your local machine. Data priv

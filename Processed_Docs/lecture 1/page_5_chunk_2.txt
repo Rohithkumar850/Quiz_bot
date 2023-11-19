@@ -1,0 +1,3 @@
+re, software, firmware, information/data, 
+and telecommunications).  
+- NIST Computer Security Handbook

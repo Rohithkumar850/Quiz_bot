@@ -1,0 +1,6 @@
+should be added (must be accomplished) if the response is from the internet, then the web references 
+should be added. 
+•
+Train your bot using network security lecture slides, network security textbook, and the Internet. 
+•
+By using Wireshark capture

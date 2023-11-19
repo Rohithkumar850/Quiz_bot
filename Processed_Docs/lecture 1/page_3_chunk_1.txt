@@ -1,0 +1,6 @@
+Learning Objective
+• Introduce the security requirements 
+• confidentiality
+• integrity
+• availability
+• Describe the X.800 security architecture for OSI 

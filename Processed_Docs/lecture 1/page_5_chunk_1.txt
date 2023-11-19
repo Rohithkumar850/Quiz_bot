@@ -1,0 +1,5 @@
+Network Security
+• Definition: The protection afforded to an automated information 
+system in order to attain the application objectives to preserving the 
+integrity, availability, and confidentiality of information system 
+resources (includes hardwa

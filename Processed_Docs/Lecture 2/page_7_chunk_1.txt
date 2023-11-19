@@ -1,0 +1,7 @@
+Other Security Architectures
+• OWASP - Open Web Application Security Project
+• web application security
+• OWASP foundation
+• NIST, Cybersecurity Framework
+• https://www.nist.gov/cyberframework
+• VIRTUAL WORKSHOP #2 | February 15, 2023 (9:00 AM – 5:30

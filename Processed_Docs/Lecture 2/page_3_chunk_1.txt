@@ -1,0 +1,7 @@
+Review
+• Security requirements 
+• Integrity
+• Availability
+• Confidentiality
+• Authenticity
+• Accountability

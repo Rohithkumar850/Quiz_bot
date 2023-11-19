@@ -1,0 +1,5 @@
+t based on a network security course using the open-source alternatives to ChatGPT that can 
+be run on your local machine. Data privacy can be compromised when sending data over the internet, so it is mandatory to 
+keep it on your local system. 
+•
+Tw

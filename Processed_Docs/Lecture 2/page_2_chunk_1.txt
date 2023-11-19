@@ -1,0 +1,4 @@
+Outline
+• Review
+• OSI Security Architecture
+• Attack model 

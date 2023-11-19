@@ -1,0 +1,5 @@
+tion. It aims to capture the sink node so 
+as to disrupt the whole traffic. If it is not able to 
+capture the sink node, it will capture the nearby nodes 
+of the sink. It tries to disrupt the whole traffic of the 
+network with minimum number of captu

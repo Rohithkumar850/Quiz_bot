@@ -1,0 +1,3 @@
+Email communication
+• Email subject: course# _course name_reason
+• such as “CS 5342_network security_late submission”

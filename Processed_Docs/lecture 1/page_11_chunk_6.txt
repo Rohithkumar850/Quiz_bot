@@ -1,0 +1,3 @@
+o types of questions should be offered by the bot: randomly generated questions and specific topic questions and the 
+answers should be pulled from the network security database. Train your bot using network security quizzes, lecture slides, 
+network

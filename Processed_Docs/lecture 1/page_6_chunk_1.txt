@@ -1,0 +1,5 @@
+Confidentiality
+• Dataconfidentiality: Assures that private or confidential information 
+is not made available or disclosed to unauthorized individuals; 
+• Privacy: Assures that individual's control or influence what 
+information related to them may 

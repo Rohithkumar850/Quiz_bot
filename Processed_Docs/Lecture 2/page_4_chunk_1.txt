@@ -1,0 +1,6 @@
+Challenges to achieve a secure system
+• The mechanisms used to meet those requirements can be quite 
+complex, and understanding them may evolve rather subtle reasoning
+• When developing security mechanisms, must always consider 
+potential attacks
+• S

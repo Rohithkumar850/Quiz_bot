@@ -1,0 +1,7 @@
+Passive attack
+• i.e. eavesdropping on or monitoring of transmissions
+• Goal: obtain information being transmitted
+• release of message contents
+• traffic analysis – a promiscuous sniffer
+• Very difficult to detect – no alteration of the data
+• But e

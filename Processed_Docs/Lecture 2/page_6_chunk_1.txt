@@ -1,0 +1,5 @@
+OSI Security Architecture
+• International Telecommunication Union – Telecommunication (ITU-T) 
+recommends X.800
+• Security Architecture for Open Systems Interconnection (OSI)
+• Defines a systematic way of defining and providing security requirements

@@ -1,0 +1,5 @@
+ data for Step 4's of the LLM workflow shown in Figure 1. Provide detailed explanations of the trace data. 
+Also, Maintain a record of Step 1's prompt and its mapping to the trace data in Step 4's.
+• Task2: Quiz Bot 
+•
+Your task is to build a quiz bo

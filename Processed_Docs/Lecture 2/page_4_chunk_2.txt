@@ -1,0 +1,6 @@
+ometimes, security mechanisms are counterintuitive
+• Where to use them?
+• Involve more than a particular algorithm or protocol
+• No agreement on security for complex and heterogeneous systems 
+i.e. trusts on data in different countries
+• etc. 

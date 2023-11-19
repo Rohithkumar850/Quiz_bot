@@ -1,0 +1,8 @@
+Other security requirements
+• Authenticity
+• Accountability
+• tracible data source, 
+• fault isolation
+• intrusion detection and prevention, 
+• recovery and legal action
+• system must keep records of their activities to permit later forensic analysis
