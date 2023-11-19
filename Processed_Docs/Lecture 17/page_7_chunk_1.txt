@@ -1,0 +1,5 @@
+Solutions
+• A message digest created using a secret symmetric key is known as a 
+Message Authentication Code (MAC), because it can provide 
+assurance that the message has not been modified
+• The sender can also generate a message digest and then encr

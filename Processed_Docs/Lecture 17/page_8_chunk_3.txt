@@ -1,0 +1,1 @@
+provide integrity (unless you can publish the hash securely)

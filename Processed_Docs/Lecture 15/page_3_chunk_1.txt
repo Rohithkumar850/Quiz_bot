@@ -1,0 +1,7 @@
+Message authentication
+• message authentication is concerned with: 
+• protecting the integrity of a message 
+• validating identity of originator 
+• non-repudiation of origin (dispute resolution)
+• then three alternative functions used:
+• message encr

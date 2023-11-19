@@ -1,0 +1,4 @@
+: use cryptographic hashes
+• Mozilla hashes the program binary and publishes the hash on its website
+• Alice hashes the binary she downloaded and checks that it matches the hash on the website
+• If Alice downloaded a malicious program, the hash would

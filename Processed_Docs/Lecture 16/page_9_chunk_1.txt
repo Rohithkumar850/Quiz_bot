@@ -1,0 +1,5 @@
+Length Extension Attacks
+• Length extension attack: Given H(x) and the length of x, but not x, an 
+attacker can create H(x || m) for any m of the attacker’s choosing
+• Length extension attack - Wikipedia
+• SHA-256 (256-bit version of SHA-2) is vulner

@@ -1,0 +1,5 @@
+Reasons to avoid encryption authentication
+• Encryption software is quite slow
+• Encryption hardware costs are nonnegligible
+• Encryption hardware is optimized toward large data sizes
+• An encryption algorithm may be protected by a patent

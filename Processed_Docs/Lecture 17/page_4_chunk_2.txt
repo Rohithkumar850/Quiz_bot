@@ -1,0 +1,5 @@
+hash over the channel
+• Bob receives the message and computes a hash on the message
+• Bob checks that the hash he computed matches the hash sent by Alice
+• Threat model: David can modify the message and the hash
+• No integrity!

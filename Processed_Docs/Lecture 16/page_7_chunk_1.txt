@@ -1,0 +1,6 @@
+Secure hash function
+• A hash function that satisfies the first five properties is referred to as 
+a weak hash function
+• Security: random/unpredictability, no predictable patterns for how 
+changing the input affects the output
+• Changing 1 bit in th

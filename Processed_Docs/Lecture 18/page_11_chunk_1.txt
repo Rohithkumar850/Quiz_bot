@@ -1,0 +1,5 @@
+HMAC procedure
+• Step 1: Append zeros to the left end of K to create a b-bit string K+ (e.g., if K 
+is of length 160 bits and b = 512, then K will be appended with 44 zero 
+bytes); 
+• Step 2: XOR (bitwise exclusive-OR) K+ with ipad to produce the b-b

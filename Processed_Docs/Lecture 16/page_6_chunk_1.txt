@@ -1,0 +1,6 @@
+Hash Function: Collision Resistance
+• Collision: Two different inputs with the same output
+• x ≠ x' and H(x) = H(x')
+• Can we design a hash function with no collisions?
+• No, because there are more inputs than outputs (pigeonhole principle)
+• However

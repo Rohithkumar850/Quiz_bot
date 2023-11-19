@@ -1,0 +1,12 @@
+Man-in-the-middle attack
+Alice
+M’
+MD’
+M
+MD
+M
+MD
+M’
+MD’
+Bob
+David

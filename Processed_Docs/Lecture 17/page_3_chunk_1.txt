@@ -1,0 +1,7 @@
+Does hashes provide integrity?
+• It depends on your threat model
+• Scenario
+• Mozilla publishes a new version of Firefox on some download servers
+• Alice downloads the program binary
+• How can she be sure that nobody tampered with the program?
+• Idea

@@ -1,0 +1,1 @@
+tep 6 and output the result. 

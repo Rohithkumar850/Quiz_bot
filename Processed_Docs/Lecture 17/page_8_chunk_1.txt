@@ -1,0 +1,6 @@
+Hashes: Summary
+• Map arbitrary-length input to fixed-length output
+• Output is deterministic
+• Security properties
+• One way: Given an output y, it is infeasible to find any input x such that H(x) = y.
+• Second preimage resistant: Given an input x, 

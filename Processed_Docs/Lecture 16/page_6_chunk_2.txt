@@ -1,0 +1,3 @@
+, we want to make finding collisions infeasible for an attacker
+• Collision resistance: It is infeasible to (i.e. no polynomial time attacker 
+can) find any pair of inputs x' ≠ x such that H(x) = H(x')

@@ -1,0 +1,5 @@
+istance
+• 5. given x is infeasible to find x’ s.t. H(x’)=H(x)
+• weak collision resistance or second pre-image resistant
+• 6. infeasible to find any pair of x,x’ s.t. H(x’)=H(x)
+• strong collision resistance

@@ -1,0 +1,5 @@
+Hash functions
+• Hash function: h = H(M)
+• M can be of any size 
+• h is always of fixed size 
+• Typically, h << size(M) 

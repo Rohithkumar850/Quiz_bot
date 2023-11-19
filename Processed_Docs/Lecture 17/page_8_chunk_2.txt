@@ -1,0 +1,6 @@
+it is infeasible to find another input x' ≠ 
+x such that H(x) = H(x').
+• Collision resistant: It is infeasible to find another any pair of inputs x' ≠ x such that 
+H(x) = H(x').
+• Some hashes are vulnerable to length extension attacks
+• Hashes don’t 

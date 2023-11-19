@@ -1,0 +1,3 @@
+• then encrypts with recipients’ public key
+• have both secrecy and authentication
+• but at cost of two public-key uses on message

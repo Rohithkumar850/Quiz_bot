@@ -1,0 +1,7 @@
+Message encryption
+• Symmetric message encryption by itself also provides a measure of 
+authentication
+• if symmetric encryption is used then:
+• receiver knows sender must have created it
+• since only sender and receiver know key used
+• know content 

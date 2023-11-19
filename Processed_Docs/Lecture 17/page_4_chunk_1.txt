@@ -1,0 +1,7 @@
+Do hashes provide integrity?
+• It depends on your threat model
+• Scenario
+• Alice and Bob want to communicate over an insecure channel
+• David might tamper with messages
+• Idea: Use cryptographic hashes
+• Alice sends her message with a cryptographic 

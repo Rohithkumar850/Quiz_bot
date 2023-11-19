@@ -1,0 +1,4 @@
+ not match (tampering detected!)
+• An attacker can’t create a malicious program with the same hash (collision resistance)
+• Threat model: We assume the attacker cannot modify the hash on the website
+• We have integrity, as long as we can communicate 

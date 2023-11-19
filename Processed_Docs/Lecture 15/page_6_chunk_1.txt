@@ -1,0 +1,7 @@
+Message encryption
+• if public-key encryption is used:
+• encryption provides no confidence of sender
+• since anyone potentially knows public-key
+• so, need to recognize corrupted messages
+• however, if 
+• sender signs message using their private-key

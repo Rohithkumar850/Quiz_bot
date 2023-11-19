@@ -1,0 +1,6 @@
+Requirements for secure hash functions
+• 1. can be applied to any sized message M
+• 2. produces fixed-length output h
+• 3. is easy to compute h=H(M) for any message M
+• 4. given h is infeasible to find x s.t. H(x)=h
+• one-way property or preimage res

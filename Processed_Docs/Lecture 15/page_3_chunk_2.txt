@@ -1,0 +1,3 @@
+yption - symmetric
+• message authentication code (MAC)
+• digital signature

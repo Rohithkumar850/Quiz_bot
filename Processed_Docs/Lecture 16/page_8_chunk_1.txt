@@ -1,0 +1,10 @@
+Hash Function: Examples
+• MD5
+• Output: 128 bits
+• Security: Completely broken
+• SHA-1
+• Output: 160 bits
+• Security: Completely broken in 2017
+• Was known to be weak before 2017, but still used sometimes
+• SHA-2
+• Output: 256, 384, or 512 bits (some

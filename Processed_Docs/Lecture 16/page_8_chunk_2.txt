@@ -1,0 +1,6 @@
+times labeled SHA-256, SHA-384, SHA-512)
+• Not currently broken, but some variants are vulnerable to a length extension attack
+• Current standard
+• SHA-3 (Keccak)
+• Output: 256, 384, or 512 bits
+• Current standard (not meant to replace SHA-2, just a 

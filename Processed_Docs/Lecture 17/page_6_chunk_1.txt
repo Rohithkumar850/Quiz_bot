@@ -1,0 +1,5 @@
+Do hashes provide integrity? 
+• It depends on your threat model
+• If the attacker can modify the hash, hashes don’t provide integrity
+• Main issue: Hashes are unkeyed functions
+• There is no secret key being used as input, so any attacker can compute

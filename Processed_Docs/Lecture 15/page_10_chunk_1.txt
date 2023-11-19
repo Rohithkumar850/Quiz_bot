@@ -1,0 +1,8 @@
+One use case - using hash function
+• Initialization: A and B share a 
+common secret, SAB
+• Message, M
+• A calculates MDM = H (SAB || M)
+• B recalculates MD’M, and check
+• MD’M = MDM
+This scheme cannot provide authentication. 

@@ -1,0 +1,4 @@
+Homework 1 questions
+• Q1: Symmetric Block Cypher provides authentication and 
+confidentiality
+• Ans: True

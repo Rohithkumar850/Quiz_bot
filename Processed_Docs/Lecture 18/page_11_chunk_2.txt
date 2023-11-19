@@ -1,0 +1,7 @@
+it block 
+Si;
+• Step 3: Append M to Si;
+• Step 4: Apply H to the stream generated in step 3; 
+• Step 5: XOR K+ with opad to produce the b-bit block So;
+• Step 6: Append the hash result from step 4 to So;
+• Step 7: Apply H to the stream generated in s
