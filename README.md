@@ -34,9 +34,13 @@ RAM: 12GB
 Disk Space Required:4 GB
 
 **Dependencies/Packages:**
+
 **-Pytorch**: PyTorch is a machine learning framework based on the Torch library, used for applications such as computer vision and natural language processing, originally developed by Meta AI and now part of the Linux Foundation umbrella. It is free and open-source software released under the modified BSD license
+
 **-Faiss**: Faiss is a library — developed by Facebook AI — that enables efficient similarity search. So, given a set of vectors, we can index them using Faiss — then using another vector (the query vector), we search for the most similar vectors within the index.
+
 **-Astra DB Vector**: Astra DB gives you elegant APIs, powerful data pipelines and complete ecosystem integrations to quickly build Gen AI applications on your real-time data for more accurate AI that you can deploy in production.
+
 **Langchain**: LangChain is a framework designed to simplify the creation of applications using large language models. As a language model integration framework, LangChain's use-cases largely overlap with those of language models in general, including document analysis and summarization, chatbots, and code analysis
 **Alpaca-Native-7B-ggml:**We introduce Alpaca 7B, a model fine-tuned from the LLaMA 7B model on 52K instruction-following demonstrations. On our preliminary evaluation of single-turn instruction following, Alpaca behaves qualitatively similarly to OpenAI's text-davinci-003, while being surprisingly small and easy/cheap to reproduce
 
