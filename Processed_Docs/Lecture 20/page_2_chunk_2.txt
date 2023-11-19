@@ -1,0 +1,6 @@
+k1, M || MAC(K2, M))
+• Which is better?
+• In theory, both are secure if applied properly
+• MAC-then-encrypt has a flaw: You don’t know if tampering has occurred until after 
+decrypting
+• Attacker can supply arbitrary tampered input, and you always ha

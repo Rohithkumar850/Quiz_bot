@@ -1,0 +1,3 @@
+Outline
+• Review of MAC authentication
+• Authenticated encryption

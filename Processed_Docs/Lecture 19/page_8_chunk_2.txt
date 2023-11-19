@@ -1,0 +1,6 @@
+n’t tamper with the MAC
+• Confidentiality? No, the MAC is not secure
+• Idea 1: Let’s compute the MAC on the ciphertext instead of the plaintext:
+Enc(K1, M) and MAC(k2, Enc(K1, M))
+• Integrity? Yes, attacker can’t tamper with the MAC
+• Confidentiality

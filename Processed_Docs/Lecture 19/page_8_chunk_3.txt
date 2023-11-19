@@ -1,0 +1,4 @@
+? Yes, the MAC might leak info about the ciphertext, but that’s okay
+• Idea 2: Let’s encrypt the MAC too: Enc(K1, M || MAC(K2, M))
+• Integrity? Yes, attacker can’t tamper with the MAC
+• Confidentiality? Yes, everything is encrypted

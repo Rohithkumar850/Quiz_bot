@@ -1,0 +1,6 @@
+Digital Signatures
+• Asymmetric cryptography is good because we don’t need to share a 
+secret key
+• Digital signatures are the asymmetric way of providing 
+integrity/authenticity to data
+• Assume that Alice and Bob can communicate public keys without

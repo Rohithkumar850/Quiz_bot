@@ -1,0 +1,9 @@
+RSA Signature
+• KeyGen():
+• Randomly pick two large primes, p and q
+• Compute n = pq
+• n is usually between 2048 bits and 4096 bits long
+• Choose e
+• Requirement: e is relatively prime to (p - 1)(q - 1)
+• Requirement: 2 < e < (p - 1)(q - 1)
+• Compute

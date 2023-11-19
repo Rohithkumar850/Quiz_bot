@@ -1,0 +1,7 @@
+enerate a block DB consisting of a constant 
+value padding 2 and salt
+Step5: Use the mask generating function MGF, which 
+produces a randomized out-put from input H of the 
+same length as DB
+Step 6: Create the encoded message (EM) block by 
+padding H

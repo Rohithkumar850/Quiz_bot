@@ -1,0 +1,2 @@
+lways encrypt-then-MAC
+• https://medium.com/@c0D3M/lucky-13-attack-explained-dd9a9fd42fa6

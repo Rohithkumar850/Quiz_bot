@@ -1,0 +1,8 @@
+ order to learn information about 
+plaintext
+• TLS will send the message again if the MAC errors, so the attacker can guess 
+repeatedly
+• Takeaways
+• Side channel attack: The algorithm is proved secure, but poor implementation made 
+it vulnerable
+• A

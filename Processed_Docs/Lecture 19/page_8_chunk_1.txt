@@ -1,0 +1,6 @@
+Scratchpad: Let’s design it together
+• You can use:
+• An encryption scheme (e.g. AES-CBC): Enc(K, M) and Dec(K, M)
+• An unforgeable MAC scheme (e.g. HMAC): MAC(K, M)
+• First attempt: Alice sends Enc(K1, M) and MAC(K2, M)
+• Integrity? Yes, attacker ca

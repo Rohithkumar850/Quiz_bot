@@ -1,0 +1,5 @@
+Digital Signatures: Definition
+• Three parts:
+• KeyGen() → PK, SK: Generate a public/private keypair, where PK is the verify (public) key, and SK
+is the signing (secret) key
+• Sign(SK, M) → sig: Sign the message M using the signing key SK to produce 

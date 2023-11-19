@@ -1,0 +1,5 @@
+ authenticity: it has a 
+valid MAC, and it’s not from me, so it must be from the other person
+• More than one secret key, If a message has a valid MAC, you can be sure it 
+came from someone with the secret key, but you can’t narrow it down to one 
+pe

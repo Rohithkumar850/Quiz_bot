@@ -1,0 +1,3 @@
+ hasn't seen before
+• Example: HMAC(K, M) = H((K+ ⊕ opad) || H((K+ ⊕ ipad) || M))
+• MACs do not provide confidentiality

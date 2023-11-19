@@ -1,0 +1,5 @@
+essage
+• Verify(PK, M, Sign(SK, M)) = 1 for all PK, SK ← KeyGen() and M
+• Efficiency: Signing/verifying should be fast
+• Security: Same as for MACs except that the attacker also receives PK
+• Namely, no attacker can forge a signature for a message

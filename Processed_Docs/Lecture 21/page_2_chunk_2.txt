@@ -1,0 +1,3 @@
+ d = e-1 mod (p - 1)(q - 1)
+• Public key: n and e
+• Private key: d

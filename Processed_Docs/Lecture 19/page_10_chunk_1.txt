@@ -1,0 +1,6 @@
+TLS 1.0 “Lucky 13” Attack
+• TLS: A protocol for sending encrypted and authenticated messages over the 
+Internet
+• TLS 1.0 uses MAC-then-encrypt: Enc(k1, M || MAC(k2, M))
+• The encryption algorithm is AES-CBC
+• The Lucky 13 attack abuses MAC-then-encr

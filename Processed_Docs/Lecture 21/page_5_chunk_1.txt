@@ -1,0 +1,9 @@
+RSA Signatures: Correctness
+Theorem: sige ≡ H(M) mod N
+Proof:
+sige = [𝐻 𝑀 𝑑 ]𝑒 𝑚𝑜𝑑 𝑁
+= 𝐻(𝑀)𝑒𝑑 mod N
+= 𝐻(𝑀)𝑘𝜙 𝑛 +1 mod N
+= [𝐻(𝑀)𝜙(𝑛)]𝑘∙ 𝐻 𝑀
+mod N
+= H(M)    mod N

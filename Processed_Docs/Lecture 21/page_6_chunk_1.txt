@@ -1,0 +1,6 @@
+RSA Digital Signature: Security
+• Necessary hardness assumptions:
+• Factoring hardness assumption: Given n large, it is hard to find primes pq = n
+• Discrete logarithm hardness assumption: Given n large, hash, and hashd mod 
+n, it is hard to find d
+•

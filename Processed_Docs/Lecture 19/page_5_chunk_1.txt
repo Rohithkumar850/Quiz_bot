@@ -1,0 +1,6 @@
+Do MACs provide integrity? 
+• Do MACs provide integrity?
+• Yes. An attacker cannot tamper with the message without being detected
+• Do MACs provide authenticity?
+• It depends on your threat model
+• If only two people have the secret key, MACs provide

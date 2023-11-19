@@ -1,0 +1,4 @@
+vide integrity and authenticity
+• MAC-then-encrypt: Enc(K1, M || MAC(K2, M))
+• Encrypt-then-MAC: MAC(K2, Enc(K1, M))
+• Always use Encrypt-then-MAC because it's more robust to mistakes

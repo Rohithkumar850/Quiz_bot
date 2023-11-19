@@ -1,0 +1,5 @@
+ng hash is secure, HMAC doesn’t reveal M, but it is still 
+deterministic
+• You can’t verify a tag T if you don’t have K
+• This means that an attacker can’t brute-force the message M without 
+knowing K

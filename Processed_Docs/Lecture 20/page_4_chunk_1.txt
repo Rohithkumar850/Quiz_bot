@@ -1,0 +1,5 @@
+Authenticated Encryption: Summary
+• Authenticated encryption: A scheme that simultaneously guarantees 
+confidentiality and integrity (and authenticity) on a message
+• First approach: Combine schemes that provide confidentiality with 
+schemes that pro

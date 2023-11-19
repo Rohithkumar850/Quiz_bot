@@ -1,0 +1,7 @@
+MAC-then-Encrypt or Encrypt-then-MAC?
+• Method 1: Encrypt-then-MAC
+• First compute Enc(K1, M)
+• Then MAC the ciphertext: MAC(K2, Enc(K1, M))
+• Method 2: MAC-then-encrypt
+• First compute MAC(K2, M)
+• Then encrypt the message and the MAC together: Enc(

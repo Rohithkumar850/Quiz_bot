@@ -1,0 +1,3 @@
+ve to decrypt it
+• Passing attacker-chosen input through the decryption function can cause side-channel leaks
+• Always use encrypt-then-MAC because it’s more robust to mistakes

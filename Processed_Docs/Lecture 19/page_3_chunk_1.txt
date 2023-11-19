@@ -1,0 +1,7 @@
+HMAC Properties
+• HMAC(K, M) = H[(K+ ⊕ opad) || H((K+ ⊕ ipad) || M]]
+• HMAC is a hash function, so it has the properties of the underlying 
+hash too
+• It is collision resistant
+• Given HMAC(K, M), an attacker can’t learn M – one way
+• If the underlyi

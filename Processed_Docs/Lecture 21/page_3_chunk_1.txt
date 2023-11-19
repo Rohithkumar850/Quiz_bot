@@ -1,0 +1,7 @@
+RSA Digital Signature Algo
+Step1: Generate a hash value, or message digest, 
+mHash from the message M to be signed 
+Step2: Pad mHash with a constant value padding1 and 
+pseudorandom value salt to form M’ 
+Step3: Generate hash value H from M’
+Step4: G

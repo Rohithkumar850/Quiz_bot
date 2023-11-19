@@ -1,0 +1,4 @@
+tion:
+• Combine schemes that provide confidentiality with schemes that provide 
+integrity
+• Use a scheme that is designed to provide confidentiality and integrity

@@ -1,0 +1,5 @@
+Authenticated Encryption: Definition
+• Authenticated encryption (AE): A scheme that simultaneously 
+guarantees confidentiality and integrity (and authenticity, depending 
+on your threat model) on a message
+• Two ways of achieving authenticated encryp

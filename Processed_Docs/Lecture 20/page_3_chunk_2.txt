@@ -1,0 +1,5 @@
+ypt to read encrypted messages
+• Guess a byte of plaintext and change the ciphertext accordingly
+• The MAC will error, but the time it takes to error is different depending on if the 
+guess is correct
+• Attacker measures how long it takes to error in

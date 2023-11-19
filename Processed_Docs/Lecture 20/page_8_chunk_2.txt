@@ -1,0 +1,5 @@
+the signature sig
+• Verify(PK, M, sig) → {0, 1}: Verify the signature sig on message M using the verify key PK and 
+output 1 if valid and 0 if invalid
+• Properties:
+• Correctness: Verification should be successful for a signature generated over any m

@@ -1,0 +1,6 @@
+MACs: Summary
+• Inputs: a secret key and a message
+• Output: a tag on the message
+• A secure MAC is unforgeable: Even if David can trick Alice into 
+creating MACs for messages that David chooses, David cannot create 
+a valid MAC on a message that she
