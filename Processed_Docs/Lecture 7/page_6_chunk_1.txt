@@ -1,0 +1,3 @@
+AES pros
+• Most operations can be combined into XOR and table lookups - hence 
+very fast & efficient

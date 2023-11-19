@@ -1,0 +1,6 @@
+Rijndael
+• processes data as 4 groups of 4 bytes (state) = 128 bits
+• has 10/12/14 rounds in which state undergoes: 
+• byte substitution (1 S-box used on every byte) 
+• shift rows (permute bytes row by row) 
+• mix columns (alter each byte in a column

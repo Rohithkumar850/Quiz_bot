@@ -1,0 +1,7 @@
+Take-home Exercises
+• Find an AES code to encrypt a text (A), then decrypt it and check 
+whether the original text (A) equals the decrypted text (B). Whether A 
+= B?
+• Compare the decryption time with different key lengths, and with DES 
+and 3DES. 
+•
