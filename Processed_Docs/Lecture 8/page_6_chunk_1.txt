@@ -1,0 +1,6 @@
+Entropy
+• A measure of uncertainty
+• In other words, a measure of how unpredictable the outcomes are
+• High entropy = unpredictable outcomes = desirable in cryptography
+• The uniform distribution has the highest entropy (every outcome equally 
+likely

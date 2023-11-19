@@ -1,0 +1,7 @@
+PRNG: Definition
+• A PRNG has two functions:
+• PRNG.Seed(randomness): Initializes the internal state using the entropy
+• Input: Some truly random bits
+• PRNG.Generate(n): Generate n pseudorandom bits
+• Input: A number n
+• Output: n pseudorandom bits

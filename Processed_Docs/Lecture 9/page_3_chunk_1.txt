@@ -1,0 +1,8 @@
+Combining sources of randomness
+• Suppose r1, r2, …, rk are random numbers from different sources. 
+E.g.,
+r1 = electrical noise from a resistor or semiconductor
+r2 = sample of hip-hop music on radio
+r3 = clock on computer
+b = r1⊕r2⊕…⊕rk
+If any one of

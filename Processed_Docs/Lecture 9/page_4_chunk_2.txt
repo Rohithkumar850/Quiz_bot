@@ -1,0 +1,5 @@
+generators (DRBGs)
+• PRNGs are deterministic: Output is generated according to a set 
+algorithm
+• However, for an attacker who can’t see the internal state, the output is 
+computationally indistinguishable from true randomness

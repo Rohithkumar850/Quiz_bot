@@ -1,0 +1,5 @@
+(IV, 3) … Ek(IV, ceil(m/n)),
+• | is concatenation
+• Initialization vector (IV) / Nonce – typically is random or pseudorandom
+Randomness, 
+PRNG output

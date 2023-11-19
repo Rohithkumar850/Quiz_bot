@@ -1,0 +1,6 @@
+Two types of random numbers
+• True random numbers:
+• generated in non-deterministic ways. They are not predictable and repeatable
+• Pseudorandom numbers:
+• appear random, but are obtained in a deterministic, repeatable, and 
+predictable manner

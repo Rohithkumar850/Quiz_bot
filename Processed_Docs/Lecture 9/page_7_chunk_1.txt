@@ -1,0 +1,7 @@
+PRNG: Security
+• Can we design a PRNG that is truly random?
+• A PRNG cannot be truly random
+• The output is deterministic given the initial seed
+• A secure PRNG is computationally indistinguishable from random to 
+an attacker
+• Game: Present an attac

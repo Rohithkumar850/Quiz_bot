@@ -1,0 +1,6 @@
+ session key
+• used in a number of networking applications, such as Transport Layer Security 
+(Chapter 5), Wi-Fi (Chapter 6), e-mail security (Chapter 7), and IP security 
+(Chapter 8) 
+• In a number of key distribution scenarios
+• Kerberos (Chapter 4

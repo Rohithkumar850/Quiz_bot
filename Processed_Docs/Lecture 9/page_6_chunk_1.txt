@@ -1,0 +1,5 @@
+Example construction of PRNG
+• Using block cipher in Counter (CTR) mode:
+• If you want m random bits, and a block cipher with Ekhas n bits, apply the 
+block cipher m/n times and concatenate the result:
+• PRNG.Seed(K | IV) = Ek(IV, 1) | Ek(IV, 2) | Ek

@@ -1,0 +1,7 @@
+Create pseudorandom numbers
+• Truly random numbers are impossible with any program!
+• However, we can generate seemingly random numbers, called 
+pseudorandom numbers
+• The function rand() returns a non-negative number between 0 and 
+RAND_MAX
+• For C,

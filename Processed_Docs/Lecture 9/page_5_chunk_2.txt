@@ -1,0 +1,6 @@
+• Updates the internal state as needed
+• Properties
+• Correctness: Deterministic
+• Efficiency: Efficient to generate pseudorandom bits
+• Security: Indistinguishability from random
+• Rollback resistance: cannot deduce anything about any previously-gen

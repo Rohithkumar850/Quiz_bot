@@ -1,0 +1,6 @@
+PRNGs: Summary
+• True randomness requires sampling a physical process
+• PRNG: An algorithm that uses a little bit of true randomness to 
+generate a lot of random-looking output
+• Seed(entropy): Initialize internal state
+• Generate(n): Generate n bits

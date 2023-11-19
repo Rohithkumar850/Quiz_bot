@@ -1,0 +1,4 @@
+ker with a truly random sequence and a sequence 
+outputted from a secure PRNG
+• An attacker should be able to determine which is which with probability ≈ 0
+• Equivalence: An attacker cannot predict future output of the PRNG

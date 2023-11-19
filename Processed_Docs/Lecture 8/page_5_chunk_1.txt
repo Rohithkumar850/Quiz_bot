@@ -1,0 +1,8 @@
+Properties of Random Numbers
+• Randomness
+• Uniformity
+• distribution of bits in the sequence should be uniform 
+• Independence
+• no one subsequence in the sequence can be inferred from the others 
+• Unpredictable
+• satisfies the "next-bit test“

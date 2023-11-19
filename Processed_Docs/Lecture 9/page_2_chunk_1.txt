@@ -1,0 +1,7 @@
+True random numbers generators
+• Several sources of randomness – natural sources of randomness
+• decay times of radioactive materials
+• electrical noise from a resistor or semiconductor
+• radio channel or audible noise
+• keyboard timings
+• disk elect

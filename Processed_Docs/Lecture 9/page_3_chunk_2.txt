@@ -1,0 +1,2 @@
+ r1, r2, …, rk is truly random, then so is b
+Many poor sources + 1 good source = good entropy

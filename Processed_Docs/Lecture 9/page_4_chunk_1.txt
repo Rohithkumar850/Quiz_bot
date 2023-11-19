@@ -1,0 +1,6 @@
+Pseudorandom Number Generators (PRNGs)
+• True randomness is expensive
+• Pseudorandom number generator (PRNGs): An algorithm that uses a 
+little bit of true randomness to generate a lot of random-looking 
+output
+• Also called deterministic random bit 

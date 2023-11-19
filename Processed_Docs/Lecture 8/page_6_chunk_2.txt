@@ -1,0 +1,4 @@
+, e.g. fair coin toss)
+• Usually measured in bits (so 3 bits of entropy = uniform, random distribution 
+over 8 values)
+Entropy of an information source

@@ -1,0 +1,5 @@
+When to use random numbers?
+• Generation of a stream key for symmetric stream cipher 
+• Generation of keys for public-key algorithms
+• RSA public-key encryption algorithm (described in Chapter 3)
+• Generation of a symmetric key for use as a temporary
