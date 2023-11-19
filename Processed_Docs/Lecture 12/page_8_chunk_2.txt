@@ -1,0 +1,7 @@
+t C
+• Dec(SK, C) → M: Decrypt a ciphertext C using secret key SK
+• Properties
+• Correctness: Decrypting a ciphertext should result in the message that was 
+originally encrypted
+• Dec(SK, Enc(PK, M)) = M for all PK, SK ← KeyGen() and M
+• Efficiency: E

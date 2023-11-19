@@ -1,0 +1,6 @@
+nt, used to decrypt messages, and 
+sign (create) signatures
+• is asymmetric because
+• Not the same key
+• those who encrypt messages or verify signatures cannot decrypt messages or 
+create signatures

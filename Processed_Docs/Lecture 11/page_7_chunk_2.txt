@@ -1,0 +1,5 @@
+ect sender from receiver forging a message & claiming 
+it’s sent by sender
+• It does not scale well for large networks. It requires a separate key for 
+each pair of communicating parties, which can result in a large number 
+of keys to manage and prot

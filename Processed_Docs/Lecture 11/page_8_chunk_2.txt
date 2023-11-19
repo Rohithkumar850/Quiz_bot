@@ -1,0 +1,5 @@
+ Modular arithmetic, factoring, discrete logarithm problem, 
+Elliptic logs over Elliptic Curves
+• Contrast with symmetric-key cryptography (uses XORs and bit-shifts)
+• Messages are numbers
+• Contrast with symmetric-key cryptography (messages are bit 

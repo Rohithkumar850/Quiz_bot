@@ -1,0 +1,4 @@
+Reading materials
+• Encryption: Strengths and Weaknesses of Public-key Cryptography
+• Public-key cryptography is a public invention due to Whitfield Diffie & 
+Martin Hellman at Stanford Uni in 1976

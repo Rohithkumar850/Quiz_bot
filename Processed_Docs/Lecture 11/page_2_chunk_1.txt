@@ -1,0 +1,10 @@
+Summary – Chapter 2
+• Symmetric block cipher
+• DES, 3DES
+• AES
+• Random number
+• true random number
+• pseudorandom number
+• Stream cipher 
+• The security of symmetric encryption depends on the secrecy of the 
+key

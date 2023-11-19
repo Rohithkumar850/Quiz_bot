@@ -1,0 +1,7 @@
+Public-key Cryptography
+• Benefit:
+• Drawback:
+• Benefit: No longer need to assume that Alice and Bob already share a 
+secret
+• Drawback: Much slower than symmetric-key cryptography
+• Number theory calculations are much slower than XORs and bit-shift

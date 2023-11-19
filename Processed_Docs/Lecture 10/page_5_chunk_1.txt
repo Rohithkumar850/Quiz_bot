@@ -1,0 +1,6 @@
+Stream Ciphers 
+• Idea: replace “rand” by “pseudo rand”
+• Use Pseudo Random Number Generator 
+• A secure PRNG produces output that looks indistinguishable from random
+• An attacker who can’t see the internal PRNG state can’t learn any output
+• PRNG: 

@@ -1,0 +1,11 @@
+Stream Ciphers: Encrypting Multiple Messages
+• Solution: For each message, seed the PRNG with the key and a 
+random IV, concatenated(“|”). Send the IV with the ciphertext
+Alice
+Bob
+Seed(k | IV)
+Seed(k | IV)
+Generate(n)
+Generate(n)
+Plaintext
+Plaintext

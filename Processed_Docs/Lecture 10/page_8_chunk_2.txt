@@ -1,0 +1,6 @@
+
+Ciphertext
+⊕
+⊕
+IV
+IV

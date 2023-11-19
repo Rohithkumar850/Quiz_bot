@@ -1,0 +1,13 @@
+RC4 Stream Cipher
+K
+RC4 (K|IV)
+011010010111
+⊕
+M
+C
+key
+(seed)
+key stream
+(pseudo random sequence)
+message
+ciphertext

@@ -1,0 +1,6 @@
+Public-key cryptography
+• public-key/two-key/asymmetric cryptography involves the use of 
+two keys: 
+• a public-key, which may be known by anybody, and can be used to encrypt 
+messages, and verify signatures
+• a private-key, known only to the recipie

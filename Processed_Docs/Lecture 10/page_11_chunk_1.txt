@@ -1,0 +1,10 @@
+RC4 Key Schedule
+• starts with an array S of 
+numbers: 0…255
+• use key to well and truly 
+shuffle
+• S forms internal state of 
+the cipher
+• given a key k of length L 
+bytes
+Throw away T & K, retain S

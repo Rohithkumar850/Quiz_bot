@@ -1,0 +1,7 @@
+Public-Key Cryptography
+• In public-key schemes, each person has two keys
+• Public key: Known to everybody
+• Private key: Only known by that person
+• Keys come in pairs: every public key corresponds to one private key
+• Uses number theory
+• Examples:

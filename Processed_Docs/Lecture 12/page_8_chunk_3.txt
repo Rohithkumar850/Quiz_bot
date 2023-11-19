@@ -1,0 +1,4 @@
+ncryption/decryption should be fast
+• Security: 1. Alice (the challenger) just gives Eve (the adversary) the public key, 
+and Eve doesn’t request encryptions. Eve cannot guess out anything; 2. 
+computationally infeasible to recover M with PK and ciph

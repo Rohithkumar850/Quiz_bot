@@ -1,0 +1,8 @@
+RC4 Encryption
+• encryption continues 
+shuffling array values
+• sum of shuffled pair 
+selects "stream key" 
+value
+• XOR with next byte of 
+message to en/decrypt

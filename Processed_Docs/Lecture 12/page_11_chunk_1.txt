@@ -1,0 +1,6 @@
+Public-Key application
+• can classify uses into 3 categories:
+• encryption/decryption (provide secrecy)
+• digital signatures (provide authentication)
+• key exchange (of session keys)
+• some algorithms are suitable for all uses; others are specific to

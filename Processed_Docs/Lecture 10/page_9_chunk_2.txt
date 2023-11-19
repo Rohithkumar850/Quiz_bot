@@ -1,0 +1,3 @@
+cessed a byte at a 
+time 
+• Widely used (web SSL/TLS, wireless WEP, WPA) 

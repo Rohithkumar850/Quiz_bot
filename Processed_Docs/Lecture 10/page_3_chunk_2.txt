@@ -1,0 +1,4 @@
+ = Mi XOR StreamKeyi
+• what could be simpler!!!! 
+• but must never reuse stream key
+• otherwise, can remove effect and recover messages, M⨁K⨁K = M

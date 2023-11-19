@@ -1,0 +1,3 @@
+Public-Key Encryption
+• Everybody can encrypt with the public key
+• Only the recipient can decrypt with the private key

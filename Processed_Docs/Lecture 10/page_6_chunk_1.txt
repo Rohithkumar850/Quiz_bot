@@ -1,0 +1,15 @@
+Stream Ciphers
+• Protocol: Alice and Bob both seed a secure PRNG with their 
+symmetric secret key, and then use the output as the key for stream 
+key
+Alice
+Bob
+Seed(k)
+Seed(k)
+Generate(n)
+Generate(n)
+Plaintext
+Plaintext
+Ciphertext
+⊕
+⊕

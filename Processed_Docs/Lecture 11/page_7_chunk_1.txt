@@ -1,0 +1,8 @@
+Pros and cons
+• Pros:
+• Encryption is fast for large amounts of data
+• Provide the same level of security with a shorter encryption key
+• By now, it’s unbreakable to quantum computing
+• Cons
+• Key distribution assumes a secure channel
+• Does not prot

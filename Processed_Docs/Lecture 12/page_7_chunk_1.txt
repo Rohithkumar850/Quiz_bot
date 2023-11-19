@@ -1,0 +1,6 @@
+Encryption steps
+• step1: generate a pair of keys
+• step2: keep the private key / secret key (SK) and distribute the public 
+key (PK) – place PK in a public register or other accessible file
+• step3: Bob encrypts the message with Alice’s PK
+• step4: 

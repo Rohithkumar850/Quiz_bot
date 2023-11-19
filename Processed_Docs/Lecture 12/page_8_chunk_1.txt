@@ -1,0 +1,6 @@
+Public-Key Encryption: Definition
+• Three parts:
+• KeyGen() → PK, SK: Generate a public/private keypair, where PK is the public 
+key, and SK is the private (secret) key
+• Enc(PK, M) → C: Encrypt a plaintext M using public key PK to produce 
+ciphertex

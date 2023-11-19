@@ -1,0 +1,5 @@
+Conventional cryptography
+• traditional private/secret/single-key cryptography uses one key 
+• shared by both sender and receiver 
+• if this key is disclosed communications are compromised 
+• also is symmetric, parties are equal 

@@ -1,0 +1,5 @@
+{0,1}s  {0,1}n
+• expand a short (e.g., 128-bit) random seed into a long (typically unbounded) 
+string that “looks random”
+• Secret key is the seed
+• Basic encryption method: Ekey[M] = M  PRNG(key)

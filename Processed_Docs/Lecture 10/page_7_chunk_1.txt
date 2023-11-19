@@ -1,0 +1,13 @@
+Stream Ciphers: Encrypting Multiple Messages
+• How do we encrypt multiple messages without key reuses?
+Alice
+Bob
+Seed(k)
+Seed(k)
+Generate(n)
+Generate(n)
+Plaintext
+Plaintext
+Ciphertext
+⊕
+⊕

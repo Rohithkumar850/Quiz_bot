@@ -1,0 +1,6 @@
+Real-world example: RC4
+• A proprietary cipher designed in 1987 
+• Extremely simple but effective!
+• Very fast - especially in software
+• Easily adapts to any key length, byte-oriented stream cipher 
+• Uses that permutation to scramble input info pro
