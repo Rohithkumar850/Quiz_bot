@@ -1,0 +1,3 @@
+st known-plaintext attacks
+• speed and code compactness on many CPUs
+• design simplicity

@@ -1,0 +1,10 @@
+Criteria to evaluate AES
+• General security
+• Software implementations
+• Restricted-space environments
+• Hardware implementations
+• Attacks on implementations
+• Encryption versus decryption
+• Key agility
+• Other versatility and flexibility
+• Potentia

@@ -1,0 +1,4 @@
+accepted in Jun 98 
+• 5 were short-listed in Aug-99 
+• Rijndael was selected as the AES in Oct-2000
+• issued as FIPS PUB 197 standard in Nov-2001 

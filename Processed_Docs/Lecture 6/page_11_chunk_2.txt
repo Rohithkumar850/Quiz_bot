@@ -1,0 +1,5 @@
+ as a function of all of the bytes in 
+the column) 
+• add round key (XOR state with key material) 
+• 128-bit keys – 10 rounds, 192-bit keys – 12 rounds, 256-bit keys – 14 
+rounds

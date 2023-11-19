@@ -1,0 +1,5 @@
+3DES
+• Triple DES with three different keys – brute-force complexity 2168
+• 3DES is the FIPS-approved symmetric encryption algorithm
+• Weakness: slow speed for encryption
+FIPS – Federal Information Processing Standards. The United States' Federal Inf

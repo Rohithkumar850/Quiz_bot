@@ -1,0 +1,8 @@
+The AES Cipher - Rijndael 
+• designed by Rijmen-Daemen in Belgium 
+• has 128/192/256 bit keys
+• an iterative rather than feistel cipher
+• treats data in 4 groups of 4 bytes
+• operates an entire block in every round
+• designed to be:
+• resistant again

@@ -1,0 +1,7 @@
+AES Specification
+• symmetric block cipher 
+• 128-bit data, 128/192/256-bit keys 
+• stronger & faster than Triple-DES 
+• provide full specification & design details 
+• both C & Java implementations
+• NIST have released all submissions & unclassified 

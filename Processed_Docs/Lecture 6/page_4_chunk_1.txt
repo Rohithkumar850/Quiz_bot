@@ -1,0 +1,3 @@
+DES Weakness
+• short length key (56 bits) is not secure enough. Brutal force search 
+takes short time. 

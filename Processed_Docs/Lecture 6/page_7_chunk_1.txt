@@ -1,0 +1,7 @@
+AES
+• clearly a replacement for DES was needed
+• have theoretical attacks that can break it
+• have demonstrated exhaustive key search attacks
+• can use Triple-DES – but slow with small blocks
+• US NIST issued call for ciphers in 1997
+• 15 candidates 

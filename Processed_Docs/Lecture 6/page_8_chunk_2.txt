@@ -1,0 +1,2 @@
+l for instruction-level parallelism
+Cryptographic Standards and Guidelines | CSRC (nist.gov)
