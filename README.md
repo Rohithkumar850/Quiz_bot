@@ -82,6 +82,44 @@ Disk Space Required:4 GB
 **Training Data**
 The data to be trained is extracted from the lectures using the embedded model and formulated into questions of multiple choice, true/false and open ended questions
 
+**Pros and Cons**
+
+**Pros**
+
+The selected LLM(GPT4ALL-falcon) is quick and responsive. (depending on available resources)
+Simple and Intuitive user interface.
+The vector database provides efficient Similarity searches.
+
+**Cons**
+
+Resource intensive for having a local language model.
+Impacts Deployment on certain devices
+Improper Implementation and optimizing of any of FAISS (API) database Could severely impact the Efficiency of the vector database![image](https://github.com/Rohithkumar850/Quiz_bot/assets/85286367/c7311117-d334-4f58-aad0-caf7d77bdd95)
+
+**Issues and Solutions**
+
+**Issues**
+
+Getting the proper versions for Libraries to work together
+Getting the correct python version that works with the Libraries
+Getting Embedding models to work together
+Getting the Vector database to connect and work with the local LLM
+Getting the correct embedding model to work with a vector database that works with the local LLM
+Learn how everything works.
+![image](https://github.com/Rohithkumar850/Quiz_bot/assets/85286367/1cad6abf-c62a-4dde-9d05-b469bc280b47)
+
+**Solutions**
+
+Downgrade the Python version from python 12 to python version 3.11.6 – 64 bit
+Install the latest version of libraries.
+If they Don’t work down grade them to version’s made before August.
+Used the Embedding model made for the local LLM Embed4ALL()
+Test the Different API’s and Libraries to see if they work with the LLM .
+Hope they work together. 
+Look at Stack overflow if they don’t
+![image](https://github.com/Rohithkumar850/Quiz_bot/assets/85286367/e5433431-608d-4956-8c71-bc049a613ba9)
+
+
 **Data Formats**
 **-.txt
 -.pdf
