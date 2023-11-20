@@ -117,6 +117,14 @@ Test the Different API’s and Libraries to see if they work with the LLM .
 Hope they work together. 
 Look at Stack overflow if they don’t
 
+**Suggestions**
+1. Connect the vector database to the LLM
+2. Continue testing with different prompts to make sure that the systems is performing as expected.
+3. Improve the User interface.
+4. Optimize performance:
+      Parallel processing, Caching mechanisms.
+
+
 
 
 **Data Formats**
