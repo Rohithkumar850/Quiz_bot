@@ -7,7 +7,7 @@ Develop a local quiz bot focused on network security, capable of generating rand
 
 **System Architecture**:
 
-![LLM](https://github.com/Rohithkumar850/Quiz_bot/assets/68658502/3808af3e-8bb1-4ba4-b84f-96372b3bb000)
+![image](https://github.com/Rohithkumar850/Quiz_bot/assets/85286367/d5d3d7c4-dbad-4285-8df7-c1ace0f6daf7)
 
 
 
