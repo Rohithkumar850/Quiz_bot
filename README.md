@@ -124,7 +124,10 @@ Look at Stack overflow if they don’t
 4. Optimize performance:
       Parallel processing, Caching mechanisms.
 
-
+**Feedback**
+Technical Skills Development:
+   The project helped me develop strong programming skills in Python and improve my understanding of natural language processing."
+Constructive Feedback: We struggled with implementing the connection between the vector database and the Local Language Model. More guidance on that aspect would have been helpful."
 
 
 **Data Formats**
