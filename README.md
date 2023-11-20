@@ -94,7 +94,7 @@ The vector database provides efficient Similarity searches.
 
 Resource intensive for having a local language model.
 Impacts Deployment on certain devices
-Improper Implementation and optimizing of any of FAISS (API) database Could severely impact the Efficiency of the vector database![image](https://github.com/Rohithkumar850/Quiz_bot/assets/85286367/c7311117-d334-4f58-aad0-caf7d77bdd95)
+Improper Implementation and optimizing of any of FAISS (API) database Could severely impact the Efficiency of the vector database.
 
 **Issues and Solutions**
 
