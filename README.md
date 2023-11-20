@@ -45,6 +45,18 @@ Disk Space Required:4 GB
 **Langchain**: LangChain is a framework designed to simplify the creation of applications using large language models. As a language model integration framework, LangChain's use-cases largely overlap with those of language models in general, including document analysis and summarization, chatbots, and code analysis
 **Alpaca-Native-7B-ggml:**We introduce Alpaca 7B, a model fine-tuned from the LLaMA 7B model on 52K instruction-following demonstrations. On our preliminary evaluation of single-turn instruction following, Alpaca behaves qualitatively similarly to OpenAI's text-davinci-003, while being surprisingly small and easy/cheap to reproduce
 
+**Pip installs:**
+
+      pip install Langchain
+   
+      pip install gpt4all
+   
+      pip install numpy
+   
+      pip install faiss
+   
+      pip install transformers
+
 **Execution Instructions:**
 
 1. load the GPT4All model
@@ -58,6 +70,32 @@ Disk Space Required:4 GB
 5. Perform a similarity search (semantic search) on our vector database based on the question we want to pass to GPT4All: this will be used as a context for our question
 
 6. Feed the question and the context to GPT4All with Langchain and wait for the the answer.
+
+
+**Documentation:Step by step instuction**
+1. Head to: https://github.com/nomic-ai/gpt4all 
+
+2. Under Chat Clents. 
+	- a.Click on the Windows Direct installer link
+3. Once the Chat client in installed
+4. located the chat Client application and run it.
+	- a.Typicall under the path ./gpt4all/bin/chat
+	- b.Click on the chat Application
+5. Once Run:
+	- a. It should Show the model Available for Download.
+	- b. Download the GPT4All Falcon model
+	- c. Save the path to the model
+		 1. Typically under: ./nomic.ai/GPT4all.  But this may vary
+
+6. In a text Editor Such as VSCode
+7. Open the Folder with the Project.zip or the downloaded github reposistory.
+8. Make sure the Python version is: 3.11.6 64-bit - If pip install python==3.11.6
+
+9. Local_Path Variable: Add the path to the folder where the GPT4ALL model is located.
+10. Model_path Variable: Include the Full path to the Model path it self.
+
+11. Run the python file Prototpye.py in the terminal with the Command: python Prototype.py
+12. Once Run the output show be printed on the Console.
    
 **Features**:
 
